@@ -1,0 +1,33 @@
+
+<html>
+<head>
+
+  <title>praktikum</title>
+
+  </head>
+   <body>
+<h1><?php $nama = "lidia"; echo $nama?></h1>
+<h1><?php $npm = "170403010067"; echo $npm ?></h1>
+<h1><?php $alamat = "flores"; echo $alamat ?></h1>
+<h1><?php $nohp = "082143434824"; echo $nohp?></h1>
+<h1><?php $jurusan = "teknik informatika"; echo $jurusan?></h1>
+<h1><?php $fakultas= "sains dan teknologi"; echo $fakultas?></h1>
+<h1><?php $hobby = "olaraga"; echo $hobby?></h1>
+<h1><?php $cita-cita = "menjadi orang sukses"; echo $cita-cita?></h1>
+<h1><?php $motto hidup = "belajar berdoa dan bekerja"; echo $motto hidup?></h1>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

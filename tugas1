@@ -1,0 +1,8 @@
+<?php
+$nim="9760085";
+$nama="lidia";
+echo "nim:" . $nim."br>";
+echo "nama:" . $nama."br>";
+
+
+?>
